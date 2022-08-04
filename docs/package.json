@@ -1,0 +1,13 @@
+{
+  "name": "udc-knowledge-base",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://gitlab.com/digitalcompendiums/udc-knowledge-base.git",
+  "author": "Ben Jesaulenko <design@upromotions.com.au>",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.8",
+    "postcss-cli": "^10.0.0",
+    "tailwindcss": "^3.1.7"
+  }
+}
